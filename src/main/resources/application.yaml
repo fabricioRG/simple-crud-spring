@@ -7,3 +7,10 @@ spring:
       port: 27017
       host: 127.0.0.1
       database: blautech
+
+#  cloud:
+#    gcp:
+#      project-id: backend-3954a
+#      firestore:
+#        credentials:
+#          location: classpath:keys/key.json
